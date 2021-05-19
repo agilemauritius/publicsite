@@ -9,7 +9,7 @@ We address these in our meetups through talks, lean coffee sessions & conference
 **Target audience**
 Marketing, coaches, executives and small to mid size business owners looking to create a sustainable business using Agile practices.
 
-## Upcomming Event
+## Upcoming Event
 
 We will have our second talk on Agility on 8th June 2021.
 
