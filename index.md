@@ -26,4 +26,4 @@ Click here for [details](http://agilemauritius.com/events/event-2) about the eve
 
 ### Code of Conduct
 
-We welcome anyone here as long as you adhere to our [Code of Conduct](http://agilemauritius.com/code-of-conduct)
+We welcome anyone here as long as you adhere to our [Code of Conduct](http://agilemauritius.com/code-of-conduct).
