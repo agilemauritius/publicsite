@@ -1,6 +1,10 @@
 # Event: Whiteboard talk on Agile: Where to Start and Why
 
+
+<img src="https://agilemauritius.com/events/event-banner-2.jpeg" width="100%">
+
 We will have our second talk on Agility on 8th June 2021.
+
 It will be an online whiteboard talk and please come curious :)
 
 ### Our Speakers
