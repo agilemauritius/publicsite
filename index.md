@@ -11,10 +11,13 @@ Marketing, coaches, executives and small to mid size business owners looking to 
 
 ## Upcomming Event
 
-Tuesday, June 8, 2021
-**Agile: Where to Start and Why**
+We will have our second talk on Agility on 8th June 2021.
 
-Click here to [attend](http://agilemauritius.com/events/event-2) the event.
+Event: **Agile: Where to Start and Why**
+
+It will be an online whiteboard talk and please come curious :)
+
+Click here for [details](http://agilemauritius.com/events/event-2) about the event.
 
 <a href="http://agilemauritius.com/events/event-2">
 <img src="https://agilemauritius.com/events/event-banner-2.jpeg" width="100%">
