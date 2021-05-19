@@ -7,6 +7,8 @@ We will have our second talk on Agility on 8th June 2021.
 
 It will be an online whiteboard talk and please come curious :)
 
+[Attend](https://www.meetup.com/agile-mauritius/events/277977707/) our meetup event
+
 ### Our Speakers
 
 **Chad Beier**
@@ -29,7 +31,7 @@ Jeff is the co-host of The Agile Wire podcast where he speaks with industry lead
 
 ### How to register for the event
 
-1. Join our meetup https://www.meetup.com/agile-mauritius
+1. [Join](https://www.meetup.com/agile-mauritius/events/277977707/) our meetup
 1. RSVP for the event of 8th 2021
 1. It will be online. Online details will be visible when you RSVP for the event.
 1. Join and participate in our online session
