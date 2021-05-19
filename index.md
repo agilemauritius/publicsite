@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Welcome to Agile Mauritius
 
-You can use the [editor on GitHub](https://github.com/agilemauritius/publicsite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The main purpose of the **Agile Mauritius** group is to share knowledge about Agile. If you're an Agile practitioner or simply interested in Business Agility, this group is for you!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Business agility embraces change. Business agility changes how you think, how you work and the way you interact with people.
 
-### Markdown
+We address these in our meetups through talks, lean coffee sessions & conferences to stay abreast with these changing market needs.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Target audience**
+Marketing, coaches, executives and small to mid size business owners looking to create a sustainable business using Agile practices.
 
-```markdown
-Syntax highlighted code block
+## Upcomming Event
 
-# Header 1
-## Header 2
-### Header 3
+Tuesday, June 8, 2021
+**Agile: Where to Start and Why**
 
-- Bulleted
-- List
+Click here to [attend](http://agilemauritius.com/events/event-2) the event.
 
-1. Numbered
-2. List
+<a href="http://agilemauritius.com/events/event-2">
+<img src="https://agilemauritius.com/events/event-banner-2.jpeg" width="100%">
+</a>
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### Code of Conduct
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/agilemauritius/publicsite/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+We welcome anyone here as long as you adhere to our [Code of Conduct](http://agilemauritius.com/code-of-conduct)
