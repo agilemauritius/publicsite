@@ -20,7 +20,7 @@ Event: **Learning Kanban Basics**
 Click here for [details](https://www.meetup.com/agile-mauritius/events/278767656/) about the event.
 
 <a href="https://www.meetup.com/agile-mauritius/events/278767656/">
-<img src="https://agilemauritius.com/events/event-banner-3.jpeg" width="100%">
+<img src="https://agilemauritius.com/events/event-banner-3.jpeg.jpg" width="100%">
 </a>
 
 ## Past Events
