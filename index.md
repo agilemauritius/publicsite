@@ -20,7 +20,7 @@ Event: **What is Agility and Agile 2.0**
 Click here for [details](https://www.meetup.com/agile-mauritius/events/279802091/) about the event.
 
 <a href="https://www.meetup.com/agile-mauritius/events/279802091/">
-<img src="https://agilemauritius.com/events/event-banner-4.jpeg.jpg" width="50%">
+<img src="https://agilemauritius.com/events/event-banner-4.jpg" width="50%">
 </a>
 
 ## Past Events
