@@ -11,7 +11,7 @@ Marketing, coaches, executives and small to mid size business owners looking to 
 
 ## Upcoming Event
 
-We will have our third online talk on Agility on 13th July 2021.
+We will have our third online talk on Agility on 13th July 2021. !!!
 Do not miss this learning and sharing opportunity !!!
 
 Event: **Learning Kanban Basics**
