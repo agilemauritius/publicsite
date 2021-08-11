@@ -11,16 +11,16 @@ Marketing, coaches, executives and small to mid size business owners looking to 
 
 ## Upcoming Event
 
-We will have our third online talk on Agility on 13th July 2021.
+We will have our fourth online talk on Agility on 17th August 2021.
 Do not miss this learning and sharing opportunity !!!
 
-Event: **Learning Kanban Basics**
+Event: **What is Agility and Agile 2.0**
 
 
-Click here for [details](https://www.meetup.com/agile-mauritius/events/278767656/) about the event.
+Click here for [details](https://www.meetup.com/agile-mauritius/events/279802091/) about the event.
 
-<a href="https://www.meetup.com/agile-mauritius/events/278767656/">
-<img src="https://agilemauritius.com/events/event-banner-3.jpeg.jpg" width="50%">
+<a href="https://www.meetup.com/agile-mauritius/events/279802091/">
+<img src="https://agilemauritius.com/events/event-banner-4.jpeg.jpg" width="50%">
 </a>
 
 ## Past Events
@@ -32,6 +32,8 @@ Event: **Learning Kanban Basics**
 <a href="https://www.meetup.com/agile-mauritius/events/278767656/">
 <img src="https://agilemauritius.com/events/event-banner-3.jpeg.jpg" width="50%">
 </a>
+
+----
 
 Our second talk on Agility was on 8th June 2021.
 
