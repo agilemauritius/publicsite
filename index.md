@@ -26,6 +26,7 @@ Click here for [details](https://www.meetup.com/agile-mauritius/events/280917370
 ## Past Events
 
 Our fifth talk was on on 14th September 2021.
+
 Event: **Psychological Safety**
 
 
@@ -38,6 +39,7 @@ Click here for [details](https://www.meetup.com/agile-mauritius/events/280510093
 ----
 
 Our fourth talk was on on 17th August 2021.
+
 Event: **What is Agility and Agile 2.0**
 
 
