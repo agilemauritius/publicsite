@@ -17,7 +17,7 @@ Do not miss this learning and sharing opportunity !!!
 Event: **Antidotes to Team Toxins - Practical and Visual Workshop**
 
 
-Click here for [details](https://www.meetup.com/agile-mauritius/events/280917370/) about the event.
+Click here for [details](https://www.meetup.com/agile-mauritius/events/281568090/) about the event.
 
 <a href="https://www.meetup.com/agile-mauritius/events/280917370/">
 <img src="https://agilemauritius.com/events/event-banner-6.jpg" width="50%">
