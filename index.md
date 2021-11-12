@@ -11,7 +11,7 @@ Marketing, coaches, executives and small to mid size business owners looking to 
 
 ## Upcoming Event
 
-We will have our sixth online talk on Team Toxins on 14th October 2021.
+We will have our sixth online talk on Team Toxins on 15th November 2021.
 Do not miss this learning and sharing opportunity !!!
 
 Event: **Antidotes to Team Toxins - Practical and Visual Workshop**
