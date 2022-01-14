@@ -11,17 +11,7 @@ Marketing, coaches, executives and small to mid size business owners looking to 
 
 ## Upcoming Event
 
-We will have our seventh online talk on Taming Wicked Issues With Inquiry on 18th January 2022.
-Do not miss this learning and sharing opportunity !!!
-
-Event: **Taming Wicked Issues With Inquiry**
-
-
-Click here for [details](https://www.meetup.com/agile-mauritius/events/282446183/) about the event.
-
-<a href="https://www.meetup.com/agile-mauritius/events/282446183/">
-<img src="https://agilemauritius.com/events/event-banner-7.JPG" width="50%">
-</a>
+Stay tuned !!! Coming soon
 
 ## Past Events
 
