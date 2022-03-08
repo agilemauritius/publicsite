@@ -9,13 +9,22 @@ We address these in our meetups through talks, lean coffee sessions & conference
 **Target audience**
 Marketing, coaches, executives and small to mid size business owners looking to create a sustainable business using Agile practices.
 
-## Upcoming Event - March 22, 2022
+## Upcoming Event - 22 March 2022
 
 Join us for our first meetup that looks at Agile outside of tech!
 
+<a href="https://www.meetup.com/agile-mauritius/events/284461826/">
+<img src="https://agilemauritius.com/events/event-banner-8-march-2022.png" width="50%">
+</a>
+
+
 Event: **Agile at Tesla: What I learned working for Elon Musk**
-Date: March 22, 2022. 11:00 AM to 12:00 PM MUT (GMT+4)
+
+
+Date & time: 22 March 2022,  11:00 AM to 12:00 PM MUT (GMT+4)
+
 [Add to calendar](https://www.meetup.com/agile-mauritius/events/284461826/#:~:text=Add%20to-,calendar,-Online%20event)
+
 
 Our Speaker:
 **Joe Justice**
@@ -25,6 +34,8 @@ Joe Justice applied agile to automotive manufacturing in 2006, founding Team WIK
 Joe is a TED.com speaker, guest lecturer at both MIT and Oxford University in England, featured in Forbes 5 times to date including as owner of a "Company to watch" by Forbes Billionaire Club, cited in more than 8 business paperbacks and hardcovers, the subject of a Discovery Channel documentary for his work creating the disciplines Extreme Manufacturing, Scrum@Hardware, and The Justice Method. Joe Justice founded WIKISPEED and operated Agile@Tesla from Tesla's Fremont, California global headquarters.
 
 Click here for [details](https://www.meetup.com/agile-mauritius/events/284461826/) about the event.
+
+
 
 ## Past Events
 
