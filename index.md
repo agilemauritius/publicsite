@@ -20,6 +20,7 @@ Are you seeing the same issues emerge in different places/organisations?
 Do you lie awake at night wondering what will be your next step when there are too many factors and things to consider?
 
 Well, you are not alone.
+
 What you have is something called a “wicked issue” and our speaker would like to share the power of Inquiry that can help influence these problems by shifting the patterns that hold them stuck.
 
 Do not miss this learning and sharing opportunity !
