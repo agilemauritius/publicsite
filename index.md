@@ -39,6 +39,19 @@ Click here for [details](https://www.meetup.com/agile-mauritius/events/284461826
 
 ## Past Events
 
+
+Our 8th talk was on 22nd March 2022.
+
+Event: **Agile at Tesla: What I learned working for Elon Musk**
+
+Click here for [details](https://www.meetup.com/agile-mauritius/events/284461826/)
+
+<a href="https://www.meetup.com/agile-mauritius/events/284461826/">
+<img src="https://agilemauritius.com/events/event-banner-8-march-2022.png" width="50%">
+</a>
+
+----
+
 Our 7th talk was on 8th February 2022.
 
 Event: **Raising the Executive Committee's awareness about agility and enlightened leadership**
