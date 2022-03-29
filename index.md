@@ -25,7 +25,7 @@ What you have is something called a “wicked issue” and our speaker would lik
 Do not miss this learning and sharing opportunity !
 
 <a href="https://www.meetup.com/agile-mauritius/events/284925533/">
-<img src="https://agilemauritius.com/events/event-banner-9.jpg" width="50%">
+<img src="https://agilemauritius.com/events/event-banner-9.JPG" width="50%">
 </a>
 
 
