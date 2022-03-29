@@ -51,7 +51,6 @@ Works in Tokyo, Japan
 Click here for [details](https://www.meetup.com/agile-mauritius/events/284925533/) about the event.
 
 
-
 ## Past Events
 
 
