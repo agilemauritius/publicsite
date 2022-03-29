@@ -9,31 +9,45 @@ We address these in our meetups through talks, lean coffee sessions & conference
 **Target audience**
 Marketing, coaches, executives and small to mid size business owners looking to create a sustainable business using Agile practices.
 
-## Upcoming Event - 22 March 2022
+## Upcoming Event - 19 April 2022
 
-Join us for our first meetup that looks at Agile outside of tech!
+Join us for our ninth meetup that looks at the power of Inquiry!
 
-<a href="https://www.meetup.com/agile-mauritius/events/284461826/">
-<img src="https://agilemauritius.com/events/event-banner-8-march-2022.png" width="50%">
+Do you ever feel stuck thinking of solving a problem that does not seem to be solvable?
+
+Are you seeing the same issues emerge in different places/organisations?
+
+Do you lie awake at night wondering what will be your next step when there are too many factors and things to consider?
+
+Well, you are not alone.
+What you have is something called a “wicked issue” and our speaker would like to share the power of Inquiry that can help influence these problems by shifting the patterns that hold them stuck.
+
+Do not miss this learning and sharing opportunity !
+
+<a href="https://www.meetup.com/agile-mauritius/events/284925533/">
+<img src="https://agilemauritius.com/events/event-banner-9.jpg" width="50%">
 </a>
 
 
-Event: **Agile at Tesla: What I learned working for Elon Musk**
+Event: **Taming Wicked Issues With Inquiry**
 
 
-Date & time: 22 March 2022,  11:00 AM to 12:00 PM MUT (GMT+4)
+Date & time: 19 April 2022,  11:30 AM to 12:30 PM MUT (GMT+4)
 
-[Add to calendar](https://www.meetup.com/agile-mauritius/events/284461826/#:~:text=Add%20to-,calendar,-Online%20event)
+[Add to calendar](https://www.meetup.com/agile-mauritius/events/284925533/#:~:text=Add%20to-,calendar,-Online%20event)
 
 
 Our Speaker:
-**Joe Justice**
+**Donna Lee**
 
-Joe Justice applied agile to automotive manufacturing in 2006, founding Team WIKISPEED, and set 4 world records. WIKISPEED became the first automotive manufacturer to accept Bitcoin in 2012, and was featured on the cover of Bitcoin Magazine issue #3. Joe Justice joined Tesla in 2020, where he operated Agile@Tesla from the company headquarters.
+From Manila Philippines
+Certified Team Coach
+Human Systems Dynamics Professional
+Works in Tokyo, Japan
+10 years Agile Experience as Scrum Master / Agile Coach
+7 years Software Engineering
 
-Joe is a TED.com speaker, guest lecturer at both MIT and Oxford University in England, featured in Forbes 5 times to date including as owner of a "Company to watch" by Forbes Billionaire Club, cited in more than 8 business paperbacks and hardcovers, the subject of a Discovery Channel documentary for his work creating the disciplines Extreme Manufacturing, Scrum@Hardware, and The Justice Method. Joe Justice founded WIKISPEED and operated Agile@Tesla from Tesla's Fremont, California global headquarters.
-
-Click here for [details](https://www.meetup.com/agile-mauritius/events/284461826/) about the event.
+Click here for [details](https://www.meetup.com/agile-mauritius/events/284925533/) about the event.
 
 
 
