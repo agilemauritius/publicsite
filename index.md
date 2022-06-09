@@ -9,139 +9,40 @@ We address these in our meetups through talks, lean coffee sessions & conference
 **Target audience**
 Marketing, coaches, executives and small to mid size business owners looking to create a sustainable business using Agile practices.
 
-## Upcoming Event - 19 April 2022
+## Upcoming Event - 14 June 2022
 
-Join us for our ninth meetup that looks at the power of Inquiry!
+Join us for our 11th meetup that looks at killing burnout!
 
-Do you ever feel stuck thinking of solving a problem that does not seem to be solvable?
+Flight Levels were first introduced as a way to detect opportunities for organisational improvements from different organisational levels. 
 
-Are you seeing the same issues emerge in different places/organisations?
+During this talk, Rochelle and Mike who are the co-founders of WeDoChange.io will speak about Flight Levels and how applying flight levels can help organisations to reduce burnout in their teams.
 
-Do you lie awake at night wondering what will be your next step when there are too many factors and things to consider?
+Do not miss this learning and sharing opportunity!
 
-Well, you are not alone.
-
-What you have is something called a “wicked issue” and our speaker would like to share the power of Inquiry that can help influence these problems by shifting the patterns that hold them stuck.
-
-Do not miss this learning and sharing opportunity !
-
-<a href="https://www.meetup.com/agile-mauritius/events/284925533/">
-<img src="https://agilemauritius.com/events/event-banner-9.JPG" width="50%">
+<a href="https://www.meetup.com/agile-mauritius/events/286413514/">
+<img src="https://agilemauritius.com/events/event-banner-11.png" width="50%">
 </a>
 
 
-Event: **Taming Wicked Issues With Inquiry**
+Event: **How to reduce organisational burnout using flight levels**
 
 
-Date & time: 19 April 2022,  11:30 AM to 12:30 PM MUT (GMT+4)
+Date & time: 14 June 2022,  5:00 PM to 6:00 PM MUT (GMT+4)
 
-[Add to calendar](https://www.meetup.com/agile-mauritius/events/284925533/#:~:text=Add%20to-,calendar,-Online%20event)
+[Add to calendar](https://www.meetup.com/agile-mauritius/events/286413514/#:~:text=Add%20to-,calendar,-Online%20event)
 
 
-Our Speaker:
-**Donna Lee**
+Our Speakers:
+**Rochelle Roos** joins us from South Africa. She loves working with highly motivated individuals and like minded teams who share my interest in adding value and moving forward. Applying a systems thinking approach to aligning Agile methodologies at organisational level while working with clients to build the correct cultural and context-driven practices is what drives me. She has coached and trained teams and individuals ranging from delivery teams to C-level executives.
 
-From Manila Philippines
+**Mike Freislich** also joins us from South Africa. He loves the Kanban approach coupled with the Flight Levels Model to create inclusive, collaborative, focused, measurable, improvements within teams and organisations. After having been inspired by Dr. Klaus Leopold in 2015, Mike achieved his Kanban Trainer accreditation (AKT) in 2017, and Flight Levels Guide in 2020. He loves to work with people at all levels of the organisation to achieve true organisational agility.His happy place is rock climbing and building synthesisers!
 
-Certified Team Coach
-
-Human Systems Dynamics Professional
-
-Works in Tokyo, Japan
-
-10 years Agile Experience as Scrum Master / Agile Coach
-
-7 years Software Engineering
-
-Click here for [details](https://www.meetup.com/agile-mauritius/events/284925533/) about the event.
-
+Click here for [details](https://www.meetup.com/agile-mauritius/events/286413514/) about the event.
 
 
 ## Past Events
 
-
-Our 8th talk was on 22nd March 2022.
-
-Event: **Agile at Tesla: What I learned working for Elon Musk**
-
-Click here for [details](https://www.meetup.com/agile-mauritius/events/284461826/)
-
-<a href="https://www.meetup.com/agile-mauritius/events/284461826/">
-<img src="https://agilemauritius.com/events/event-banner-8-march-2022.png" width="50%">
-</a>
-
-----
-
-Our 7th talk was on 8th February 2022.
-
-Event: **Raising the Executive Committee's awareness about agility and enlightened leadership**
-
-Click here for [details](https://www.meetup.com/agile-mauritius/events/283546671/)
-
-<a href="https://www.meetup.com/agile-mauritius/events/283546671/">
-<img src="https://agilemauritius.com/events/event-banner-7-Feb-2022-Alain-buzzacaro.jpeg" width="50%">
-</a>
-
-----
-
-Our sixth talk was on on 15th November 2021.
-
-Event: **Antidotes to Team Toxins - Practical and Visual Workshop**
-
-
-Click here for [details](https://www.meetup.com/agile-mauritius/events/281568090/) about the event.
-
-<a href="https://www.meetup.com/agile-mauritius/events/281568090/">
-<img src="https://agilemauritius.com/events/event-banner-6.jpg" width="50%">
-</a>
-
-----
-
-Our fifth talk was on on 14th September 2021.
-
-Event: **Psychological Safety**
-
-
-Click here for [details](https://www.meetup.com/agile-mauritius/events/280510093/) about the event.
-
-<a href="https://www.meetup.com/agile-mauritius/events/280510093/">
-<img src="https://agilemauritius.com/events/event-banner-5.jpg" width="50%">
-</a>
-
-----
-
-Our fourth talk was on on 17th August 2021.
-
-Event: **What is Agility and Agile 2.0**
-
-
-Click here for [details](https://www.meetup.com/agile-mauritius/events/279802091/) about the event.
-
-<a href="https://www.meetup.com/agile-mauritius/events/279802091/">
-<img src="https://agilemauritius.com/events/event-banner-4.jpg" width="50%">
-</a>
-
-----
-
-Our third online talk on Agility was on 13th July 2021.
-
-Event: **Learning Kanban Basics**
-
-<a href="https://www.meetup.com/agile-mauritius/events/278767656/">
-<img src="https://agilemauritius.com/events/event-banner-3.jpeg.jpg" width="50%">
-</a>
-
-----
-
-Our second talk on Agility was on 8th June 2021.
-
-Event: **Agile: Where to Start and Why**
-
-It was an online whiteboard talk ...and people came curious :)
-
-<a href="http://agilemauritius.com/events/event-2">
-<img src="https://agilemauritius.com/events/event-banner-2.jpeg" width="50%">
-</a>
+Check out the full list of our past events [here](http://agilemauritius.com/past-events)
 
 ### Code of Conduct
 
