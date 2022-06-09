@@ -33,9 +33,21 @@ Date & time: 14 June 2022,  5:00 PM to 6:00 PM MUT (GMT+4)
 
 
 Our Speakers:
-**Rochelle Roos** joins us from South Africa. She loves working with highly motivated individuals and like minded teams who share my interest in adding value and moving forward. Applying a systems thinking approach to aligning Agile methodologies at organisational level while working with clients to build the correct cultural and context-driven practices is what drives me. She has coached and trained teams and individuals ranging from delivery teams to C-level executives.
 
-**Mike Freislich** also joins us from South Africa. He loves the Kanban approach coupled with the Flight Levels Model to create inclusive, collaborative, focused, measurable, improvements within teams and organisations. After having been inspired by Dr. Klaus Leopold in 2015, Mike achieved his Kanban Trainer accreditation (AKT) in 2017, and Flight Levels Guide in 2020. He loves to work with people at all levels of the organisation to achieve true organisational agility.His happy place is rock climbing and building synthesisers!
+**Rochelle Roos** joins us from South Africa. She loves working with highly motivated individuals and like minded teams who share my interest in adding value and moving forward. 
+
+Applying a systems thinking approach to aligning Agile methodologies at organisational level while working with clients to build the correct cultural and context-driven practices is what drives me. 
+
+She has coached and trained teams and individuals ranging from delivery teams to C-level executives.
+
+**Mike Freislich** also joins us from South Africa. He loves the Kanban approach coupled with the Flight Levels Model to create inclusive, collaborative, focused, measurable, improvements within teams and organisations. 
+
+After having been inspired by Dr. Klaus Leopold in 2015, Mike achieved his Kanban Trainer accreditation (AKT) in 2017, and Flight Levels Guide in 2020. 
+
+He loves to work with people at all levels of the organisation to achieve true organisational agility.
+
+His happy place is rock climbing and building synthesisers!
+
 
 Click here for [details](https://www.meetup.com/agile-mauritius/events/286413514/) about the event.
 
@@ -44,6 +56,6 @@ Click here for [details](https://www.meetup.com/agile-mauritius/events/286413514
 
 Check out the full list of our past events [here](http://agilemauritius.com/past-events)
 
-### Code of Conduct
+## Code of Conduct
 
 We welcome anyone here as long as you adhere to our [Code of Conduct](http://agilemauritius.com/code-of-conduct).
