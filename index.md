@@ -9,7 +9,7 @@ We address these in our meetups through talks, lean coffee sessions & conference
 **Target audience**
 Marketing, coaches, executives and small to mid size business owners looking to create a sustainable business using Agile practices.
 
-## Upcoming Event - 14 June 2022
+## Upcoming Event - 28 June 2022
 
 Join us for our 11th meetup that looks at killing burnout!
 
@@ -27,7 +27,7 @@ Do not miss this learning and sharing opportunity!
 Event: **How to reduce organisational burnout using flight levels**
 
 
-Date & time: 14 June 2022,  5:00 PM to 6:00 PM MUT (GMT+4)
+Date & time: 28 June 2022,  5:00 PM to 6:00 PM MUT (GMT+4)
 
 [Add to calendar](https://www.meetup.com/agile-mauritius/events/286413514/#:~:text=Add%20to-,calendar,-Online%20event)
 
