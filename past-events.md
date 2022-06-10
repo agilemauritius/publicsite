@@ -1,6 +1,18 @@
 
 ## Past Events
 
+Our 10th talk was 19th May 2022.
+
+Event: **NETFLIX - Director of Product shares Product Management in a Digital World**
+
+Click here for [details](https://www.meetup.com/agile-mauritius/events/285517842/) about the event.
+
+<a href="https://www.meetup.com/agile-mauritius/events/285517842/">
+<img src="https://agilemauritius.com/events/event-banner-10.png" width="50%">
+</a>
+
+----
+
 Our 9th talk was 19th April 2022.
 
 Event: **Taming Wicked Issues With Inquiry**
