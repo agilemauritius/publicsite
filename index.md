@@ -28,7 +28,9 @@ The session will follow basic Lean Coffee structured and agenda-free meeting (ht
 •	and we’ll decide together when it’s time to move to the next topic. 
 
 Please register today and bring your own Agile topics to discuss or simply join the discussion. 
+
 Do not miss this learning and sharing opportunity!
+
 See you there! 
 
 <a href="https://www.meetup.com/agile-mauritius/events/287201892/">
