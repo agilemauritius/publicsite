@@ -9,47 +9,38 @@ We address these in our meetups through talks, lean coffee sessions & conference
 **Target audience**
 Marketing, coaches, executives and small to mid size business owners looking to create a sustainable business using Agile practices.
 
-## Upcoming Event - 28 June 2022
+## Upcoming Event - 26 July 2022
 
-Join us for our 11th meetup that looks at killing burnout!
+Join us for our Agile Lean Coffee meetup session!
 
-Flight Levels were first introduced as a way to detect opportunities for organisational improvements from different organisational levels. 
+What’s more Agile than getting together to have a Lean Coffee talk? 
 
-During this talk, Rochelle and Mike who are the co-founders of WeDoChange.io will speak about Flight Levels and how applying flight levels can help organisations to reduce burnout in their teams.
+Whether you are new to Agile or you have been using Agile techniques for some time (and even if you don't like coffee), feel free to join us to share and discuss any Agile-related ideas or challenges you might have and gain insights from each other.
+ 
+The session will follow basic Lean Coffee structured and agenda-free meeting (http://leancoffee.org/):
+•	we shall start by everyone co-creating the agenda, with each person submitting topics they would like to discuss,
+•	vote on the topics submitted,
+•	then contribute to the topic discussion, 
+•	and we’ll decide together when it’s time to move to the next topic. 
 
+Please register today and bring your own Agile topics to discuss or simply join the discussion. 
 Do not miss this learning and sharing opportunity!
+See you there! 
 
-<a href="https://www.meetup.com/agile-mauritius/events/286413514/">
-<img src="https://agilemauritius.com/events/event-banner-11.png" width="50%">
+<a href="https://www.meetup.com/agile-mauritius/events/287201892/">
+<img src="https://agilemauritius.com/events/event-banner-12.JPG" width="50%">
 </a>
 
 
-Event: **How to reduce organisational burnout using flight levels**
+Event: **Agile Lean Coffee: Ask us anything related to Agile**
 
 
-Date & time: 28 June 2022,  5:00 PM to 6:00 PM MUT (GMT+4)
+Date & time: 26 July 2022,  5:00 PM to 6:00 PM MUT (GMT+4)
 
-[Add to calendar](https://www.meetup.com/agile-mauritius/events/286413514/#:~:text=Add%20to-,calendar,-Online%20event)
-
-
-Our Speakers:
-
-**Rochelle Roos** joins us from South Africa. She loves working with highly motivated individuals and like minded teams who share my interest in adding value and moving forward. 
-
-Applying a systems thinking approach to aligning Agile methodologies at organisational level while working with clients to build the correct cultural and context-driven practices is what drives me. 
-
-She has coached and trained teams and individuals ranging from delivery teams to C-level executives.
-
-**Mike Freislich** also joins us from South Africa. He loves the Kanban approach coupled with the Flight Levels Model to create inclusive, collaborative, focused, measurable, improvements within teams and organisations. 
-
-After having been inspired by Dr. Klaus Leopold in 2015, Mike achieved his Kanban Trainer accreditation (AKT) in 2017, and Flight Levels Guide in 2020. 
-
-He loves to work with people at all levels of the organisation to achieve true organisational agility.
-
-His happy place is rock climbing and building synthesisers!
+[Add to calendar](https://www.meetup.com/agile-mauritius/events/287201892/#:~:text=Add%20to-,calendar,-Online%20event)
 
 
-Click here for [details](https://www.meetup.com/agile-mauritius/events/286413514/) about the event.
+Click here for [details](https://www.meetup.com/agile-mauritius/events/287201892/) about the event.
 
 
 ## Past Events
