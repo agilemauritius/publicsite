@@ -18,9 +18,13 @@ What’s more Agile than getting together to have a Lean Coffee talk?
 Whether you are new to Agile or you have been using Agile techniques for some time (and even if you don't like coffee), feel free to join us to share and discuss any Agile-related ideas or challenges you might have and gain insights from each other.
  
 The session will follow basic Lean Coffee structured and agenda-free meeting (http://leancoffee.org/):
+
 •	we shall start by everyone co-creating the agenda, with each person submitting topics they would like to discuss,
+
 •	vote on the topics submitted,
+
 •	then contribute to the topic discussion, 
+
 •	and we’ll decide together when it’s time to move to the next topic. 
 
 Please register today and bring your own Agile topics to discuss or simply join the discussion. 
