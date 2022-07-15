@@ -1,6 +1,18 @@
 
 ## Past Events
 
+Our 11th talk was 28th June 2022.
+
+Event: **How to reduce organisational burnout using flight levels**
+
+Click here for [details](https://www.meetup.com/agile-mauritius/events/286413514/) about the event.
+
+<a href="https://www.meetup.com/agile-mauritius/events/286413514/">
+<img src="https://agilemauritius.com/events/event-banner-11.png" width="50%">
+</a>
+
+----
+
 Our 10th talk was 19th May 2022.
 
 Event: **NETFLIX - Director of Product shares Product Management in a Digital World**
