@@ -9,50 +9,30 @@ We address these in our meetups through talks, lean coffee sessions & conference
 **Target audience**
 Marketing, coaches, executives and small to mid size business owners looking to create a sustainable business using Agile practices.
 
-## Upcoming Event - 26 July 2022
 
-Join us for our Agile Lean Coffee meetup session!
+## About Us
 
-What’s more Agile than getting together to have a Lean Coffee talk? 
+We are present on:
 
-Whether you are new to Agile or you have been using Agile techniques for some time (and even if you don't like coffee), feel free to join us to share and discuss any Agile-related ideas or challenges you might have and gain insights from each other.
- 
-The session will follow basic Lean Coffee structured and agenda-free meeting (http://leancoffee.org/):
+Linked In: https://www.linkedin.com/company/agile-mauritius/
 
-•	we shall start by everyone co-creating the agenda, with each person submitting topics they would like to discuss,
+Meetup - https://www.meetup.com/agile-mauritius
 
-•	vote on the topics submitted,
+Youtube - https://youtu.be/1yH3HfQrwRI
 
-•	then contribute to the topic discussion, 
+Subscribe to the Channel: Agile Mauritius
 
-•	and we’ll decide together when it’s time to move to the next topic. 
+---
 
-Please register today and bring your own Agile topics to discuss or simply join the discussion. 
+## Upcoming Event - Stay Tune for our next event in November 2022
 
-Do not miss this learning and sharing opportunity!
-
-See you there! 
-
-<a href="https://www.meetup.com/agile-mauritius/events/287201892/">
-<img src="https://agilemauritius.com/events/event-banner-12.JPG" width="50%">
-</a>
-
-
-Event: **Agile Lean Coffee: Ask us anything related to Agile**
-
-
-Date & time: 26 July 2022,  5:00 PM to 6:00 PM MUT (GMT+4)
-
-[Add to calendar](https://www.meetup.com/agile-mauritius/events/287201892/#:~:text=Add%20to-,calendar,-Online%20event)
-
-
-Click here for [details](https://www.meetup.com/agile-mauritius/events/287201892/) about the event.
 
 
 ## Past Events
 
 Check out the full list of our past events [here](http://agilemauritius.com/past-events)
 
+---
 ## Code of Conduct
 
 We welcome anyone here as long as you adhere to our [Code of Conduct](http://agilemauritius.com/code-of-conduct).
