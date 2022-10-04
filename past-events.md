@@ -8,13 +8,14 @@ Event:**Embrace the Storm: Unlock your organisations agility by harnessing the t
 Click here for [details](https://www.meetup.com/agile-mauritius/events/288432721/) about the event.
 
 <a href="https://www.meetup.com/agile-mauritius/events/288432721/">
-<img src="https://www.meetup.com/_next/image/?url=https%3A%2F%2Fsecure-content.meetupstatic.com%2Fimages%2Fclassic-events%2F507001781%2F676x380.webp&w=3840&q=75">
+<img src="https://www.meetup.com/_next/image/?url=https%3A%2F%2Fsecure-content.meetupstatic.com%2Fimages%2Fclassic-events%2F507001781%2F676x380.webp&w=3840&q=75"  width="50%">
 </a>
 
 
 ----
 
 Our 12th Talk was on 26 July 2022
+
 Event: **Agile Lean Coffee: Ask us anything related to Agile**
 
 
