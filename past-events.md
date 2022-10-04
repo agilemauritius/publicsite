@@ -1,6 +1,30 @@
 
-## Past Events
 
+## Past Events
+Our 13th Talk was on 27 Sep 2022.
+
+Event:**Embrace the Storm: Unlock your organisations agility by harnessing the turbulence of Agile Transformations**
+
+Click here for [details](https://www.meetup.com/agile-mauritius/events/288432721/) about the event.
+
+<a href="https://www.meetup.com/agile-mauritius/events/288432721/">
+<img src="https://www.meetup.com/_next/image/?url=https%3A%2F%2Fsecure-content.meetupstatic.com%2Fimages%2Fclassic-events%2F507001781%2F676x380.webp&w=3840&q=75">
+</a>
+
+
+----
+
+Our 12th Talk was on 26 July 2022
+Event: **Agile Lean Coffee: Ask us anything related to Agile**
+
+
+Click here for [details](https://www.meetup.com/agile-mauritius/events/287201892/) about the event.
+
+<a href="https://www.meetup.com/agile-mauritius/events/287201892/">
+<img src="https://agilemauritius.com/events/event-banner-12.JPG" width="50%">
+</a>
+
+----
 Our 11th talk was 28th June 2022.
 
 Event: **How to reduce organisational burnout using flight levels**
