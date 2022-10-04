@@ -14,11 +14,11 @@ Marketing, coaches, executives and small to mid size business owners looking to 
 
 We are present on:
 
-Linked In: https://www.linkedin.com/company/agile-mauritius/
+[Linked In](https://www.linkedin.com/company/agile-mauritius/)
 
-Meetup - https://www.meetup.com/agile-mauritius
+[Meetup](https://www.meetup.com/agile-mauritius)
 
-Youtube - https://youtu.be/1yH3HfQrwRI
+[Youtube](https://youtu.be/1yH3HfQrwRI)
 
 Subscribe to the Channel: Agile Mauritius
 
